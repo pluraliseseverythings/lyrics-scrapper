@@ -1,0 +1,990 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+      <link rel="canonical" href="http://www.uk-charts.top-source.info/top-100-1969.shtml">
+      <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.uk-charts.top-source.info/image-files/favicon.ico">
+
+      <meta http-equiv="Content-type" content="text/html;charset=iso-8859-1">
+
+      <title>Top 100 1969 - UK Music Charts</title>
+
+      <meta name="Description" content="The top 100 1969 lists the 100 most popular hits in the UK singles music charts in 1969.">
+
+      <meta name="Keywords" Content="Top 100 1969, UK music charts, top 100 UK hits">
+
+	  <link rel="stylesheet" href="support-files/stylesearch.css" type="text/css">
+
+	  <script src="support-files/jquery.js" type="text/javascript" charset="utf-8"></script>
+	  <script src="support-files/jquery.quicksearch.js" type="text/javascript" charset="utf-8"></script>
+	  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function () {
+		  $('table tbody tr').quicksearch({
+			stripeRowClass: ['odd', 'even'],
+			position: 'before',
+			attached: 'table',
+			labelText: 'Enter text to search the table below',
+			delay: 50
+			});
+		  })
+		</script>
+
+
+	</head>
+
+
+
+
+	<body>
+
+    <div id="PageWrapper">
+      <div id="Header">
+	  	<div class="Liner">
+
+        </div><!-- end Liner -->
+      </div><!-- end Header -->
+
+      <div id="ContentWrapper">
+        <div id="ContentColumn">
+          <div class="Liner"><!-- Begin Center Column Content -->
+			<a name="top" id="top"></a>
+            <div class = ExtraNav>
+		  	  <ul>
+<li><a href = top-100-1960.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1960</a></li>
+<li><a href = top-100-1961.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1961</a></li>
+<li><a href = top-100-1962.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1962</a></li>
+<li><a href = top-100-1963.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1963</a></li>
+<li><a href = top-100-1964.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1964</a></li>
+<li><a href = top-100-1965.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1965</a></li>
+<li><a href = top-100-1966.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1966</a></li>
+<li><a href = top-100-1967.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1967</a></li>
+<li><a href = top-100-1968.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1968</a></li>
+<li><a href = top-100-1969.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="12" height="12" border="0">1969</a></li>
+</ul>
+            </div>
+            <h1>
+            Top 100 1969
+            </h1>
+            <div class="ItemCenter">
+              <p>
+              The top 100 1969 lists the 100 most popular hits in the UK singles music charts in 1969.
+              </p>
+            </div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" class="sortable">
+            <thead>
+              <tr>
+                <th width="17%" scope="col">Position</th>
+    			<th width="34%" scope="col">Artist</th>
+    			<th width="49%" scope="col">Title</th>
+  			  </tr>
+			</thead>
+
+            <tbody>
+              <tr>
+    			<td>01</td>
+    			<td>Archies</td>
+    			<td>Sugar Sugar</td>
+   			  </tr>
+  			  <tr>
+    			<td>02</td>
+    			<td>Beatles With Billy Preston</td>
+    			<td>Get Back</td>
+   			  </tr>
+  			  <tr>
+    			<td>03</td>
+    			<td>The Rolling Stones</td>
+    			<td>Honky Tonk Women</td>
+   			  </tr>
+  			  <tr>
+    			<td>04</td>
+    			<td>Peter Sarstedt</td>
+    			<td>Where Do You Go To (My Lovely)</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>05</td>
+    		  	<td>Jane Birkin &amp; Serge Gainsbourg</td>
+    		  	<td>Je T'Aime... Moi Non Plus</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>06</td>
+    		  	<td>Marvin Gaye</td>
+    		  	<td>I Heard It Through The Grapevine</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>07</td>
+    		  	<td>Creedence Clearwater Revival</td>
+    		  	<td>Bad Moon Rising</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>08</td>
+    		  	<td>Fleetwood Mac</td>
+    		  	<td>Albatross</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>09</td>
+    		  	<td>Frank Sinatra</td>
+    		  	<td>My Way</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>10</td>
+    		  	<td>Bobbie Gentry</td>
+    		  	<td>I'll Never Fall In Love Again</td>
+   		  	  </tr>
+              <tr>
+    			<td>11</td>
+    			<td>Dean Martin</td>
+    			<td>Gentle On My Mind</td>
+   			  </tr>
+  			  <tr>
+    			<td>12</td>
+    			<td>Zager &amp; Evans</td>
+    			<td>In The Year 2525</td>
+   			  </tr>
+  			  <tr>
+    			<td>13</td>
+    			<td>Elvis Presley</td>
+    			<td>In The Ghetto</td>
+   			  </tr>
+  			  <tr>
+    			<td>14</td>
+    			<td>Marmalade</td>
+    			<td>Ob-La-Di Ob-La-Da</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>15</td>
+    		  	<td>The Beatles</td>
+    		  	<td>The Ballad Of John And Yoko</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>16</td>
+    		  	<td>Tommy Roe</td>
+    		  	<td>Dizzy</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>17</td>
+    		  	<td>Robin Gibb</td>
+    		  	<td>Saved By The Bell</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>18</td>
+    		  	<td>Thunderclap Newman</td>
+    		  	<td>Something In The Air</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>19</td>
+    		  	<td>Mary Hopkin</td>
+    		  	<td>Goodbye</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>20</td>
+    		  	<td>Fleetwood Mac</td>
+    		  	<td>Oh Well</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>21</td>
+    			<td>Desmond Dekker &amp; The Aces</td>
+    			<td>The Israelites</td>
+   			  </tr>
+  			  <tr>
+    			<td>22</td>
+    			<td>Kenny Rogers &amp; The First Edition</td>
+    			<td>Ruby Don't Take Your Love To Town</td>
+   			  </tr>
+  			  <tr>
+    			<td>23</td>
+    			<td>Donald Peers</td>
+    			<td>Please Don't Go</td>
+   			  </tr>
+  			  <tr>
+    			<td>24</td>
+    			<td>The Bee Gees</td>
+    			<td>Don't Forget To Remember</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>25</td>
+    		  	<td>Plastic Ono Band</td>
+    		  	<td>Give Peace A Chance</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>26</td>
+    		  	<td>Fleetwood Mac</td>
+    		  	<td>Man Of The World</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>27</td>
+    		  	<td>Amen Corner</td>
+    		  	<td>(If Paradise Is) Half As Nice</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>28</td>
+    		  	<td>Lou Christie</td>
+    		  	<td>I'm Gonna Make You Mine</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>29</td>
+    		  	<td>Karen Young</td>
+    		  	<td>Nobody's Child</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>30</td>
+    		  	<td>The Scaffold</td>
+    		  	<td>Lily The Pink</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>31</td>
+    			<td>Joe Dolan</td>
+    			<td>Make Me An Island</td>
+   			  </tr>
+  			  <tr>
+    			<td>32</td>
+    			<td>The Move</td>
+    			<td>Blackberry Way</td>
+   			  </tr>
+  			  <tr>
+    			<td>33</td>
+    			<td>Rolf Harris</td>
+    			<td>Two Little Boys</td>
+   			  </tr>
+  			  <tr>
+    			<td>34</td>
+    			<td>The Tremeloes</td>
+    			<td>(Call Me) Number One</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>35</td>
+    		  	<td>Stevie Wonder</td>
+    		  	<td>My Cherie Amour</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>36</td>
+    		  	<td>The Edwin Hawkins Singers</td>
+    		  	<td>Oh Happy Day</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>37</td>
+    		  	<td>Booker T &amp; The MGs</td>
+    		  	<td>Time Is Tight</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>38</td>
+    		  	<td>Stevie Wonder</td>
+    		  	<td>For Once In My Life</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>39</td>
+    		  	<td>Johnny Cash</td>
+    		  	<td>A Boy Named Sue</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>40</td>
+    		  	<td>Herman's Hermits</td>
+    		  	<td>My Sentimental Friend</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>41</td>
+    			<td>The Hollies</td>
+    			<td>He Ain't Heavy, He's My Brother</td>
+   			  </tr>
+  			  <tr>
+    			<td>42</td>
+    			<td>Oliver</td>
+    			<td>Good Morning Starshine</td>
+   			  </tr>
+  			  <tr>
+    			<td>43</td>
+    			<td>Marvin Gaye</td>
+    			<td>Too Busy Thinking 'Bout My Baby</td>
+   			  </tr>
+  			  <tr>
+    			<td>44</td>
+    			<td>Lulu</td>
+    			<td>Boom Bang-A-Bang</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>45</td>
+    		  	<td>Clodagh Rodgers</td>
+    		  	<td>Come Back And Shake Me</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>46</td>
+    		  	<td>Stevie Wonder</td>
+    		  	<td>Yester-Me Yester-You Yesterday</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>47</td>
+    		  	<td>The Who</td>
+    		  	<td>Pinball Wizard</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>48</td>
+    		  	<td>Engelbert Humperdinck</td>
+    		  	<td>The Way It Used To Be</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>49</td>
+    		  	<td>Cilla Black</td>
+    		  	<td>Surround Yourself With Sorrow</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>50</td>
+    		  	<td>Max Romeo</td>
+    		  	<td>Wet Dream</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>51</td>
+    			<td>The Upsetters</td>
+    			<td>Return Of Django / Dollar In The Teeth</td>
+   			  </tr>
+  			  <tr>
+    			<td>52</td>
+    			<td>Sandie Shaw</td>
+    			<td>Monsieur Dupont</td>
+   			  </tr>
+  			  <tr>
+    			<td>53</td>
+    			<td>Jethro Tull</td>
+    			<td>Living In The Past</td>
+   			  </tr>
+  			  <tr>
+    			<td>54</td>
+    			<td>The Equals</td>
+    			<td>Viva Bobby Joe</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>55</td>
+    		  	<td>Diana Ross &amp; The Supremes &amp; The Temptations</td>
+    		  	<td>I'm Gonna Make You Love Me</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>56</td>
+    		  	<td>The Hollies</td>
+    		  	<td>Sorry Suzanne</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>57</td>
+    		  	<td>Simon &amp; Garfunkel</td>
+    		  	<td>The Boxer</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>58</td>
+    		  	<td>Clodagh Rodgers</td>
+    		  	<td>Goodnight Midnight</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>59</td>
+    		  	<td>Herman's Hermits</td>
+    		  	<td>Something's Happening</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>60</td>
+    		  	<td>The Foundations</td>
+    		  	<td>Build Me Up Buttercup</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>61</td>
+    			<td>David Bowie</td>
+    			<td>Space Oddity</td>
+   			  </tr>
+  			  <tr>
+    			<td>62</td>
+    			<td>Martha Reeves &amp; The Vandellas</td>
+    			<td>Dancing In The Street</td>
+   			  </tr>
+  			  <tr>
+    			<td>63</td>
+    			<td>Family Dogg</td>
+    			<td>Way Of Life</td>
+   			  </tr>
+  			  <tr>
+    			<td>64</td>
+    			<td>Frank Sinatra</td>
+    			<td>Love's Been Good To Me</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>65</td>
+    		  	<td>Humble Pie</td>
+    		  	<td>Natural Born Bugie</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>66</td>
+    		  	<td>The Isley Brothers</td>
+    		  	<td>Behind A Painted Smile</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>67</td>
+    		  	<td>Jimmy Cliff</td>
+    		  	<td>Wonderful World Beautiful People</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>68</td>
+    		  	<td>Noel Harrison</td>
+    		  	<td>The Windmills Of Your Mind</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>69</td>
+    		  	<td>Mama Cass</td>
+    		  	<td>It's Getting Better</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>70</td>
+    		  	<td>Glen Campbell</td>
+    		  	<td>Wichita Lineman</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>71</td>
+    			<td>Bob Dylan</td>
+    			<td>Lay Lady Lay</td>
+   			  </tr>
+  			  <tr>
+    			<td>72</td>
+    			<td>The Beatles</td>
+    			<td>Something / Come Together</td>
+   			  </tr>
+  			  <tr>
+    			<td>73</td>
+    			<td>Joe South</td>
+    			<td>Games People Play</td>
+   			  </tr>
+  			  <tr>
+    			<td>74</td>
+    			<td>The Beach Boys</td>
+    			<td>Breakaway</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>75</td>
+    		  	<td>Blue Mink</td>
+    		  	<td>Melting Pot</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>76</td>
+    		  	<td>Johnny Nash</td>
+    		  	<td>You Got Soul</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>77</td>
+    		  	<td>Marmalade</td>
+    		  	<td>Baby Make It Soon</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>78</td>
+    		  	<td>Amen Corner</td>
+    		  	<td>Hello Suzie</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>79</td>
+    		  	<td>Bob &amp; Earl</td>
+    		  	<td>Harlem Shuffle</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>80</td>
+    		  	<td>Cilla Black</td>
+    		  	<td>Conversations</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>81</td>
+    			<td>Creedence Clearwater Revival</td>
+    			<td>Proud Mary</td>
+   			  </tr>
+  			  <tr>
+    			<td>82</td>
+    			<td>The Bee Gees</td>
+    			<td>First Of May</td>
+   			  </tr>
+  			  <tr>
+    			<td>83</td>
+    			<td>Vanity Fare</td>
+    			<td>Early In The Morning</td>
+   			  </tr>
+  			  <tr>
+    			<td>84</td>
+    			<td>Desmond Dekker &amp; The Aces</td>
+    			<td>It Miek</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>85</td>
+    		  	<td>Smokey Robinson &amp; The Miracles</td>
+    		  	<td>The Tracks Of My Tears</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>86</td>
+    		  	<td>Harry J All-Stars</td>
+    		  	<td>The Liquidator</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>87</td>
+    		  	<td>The Beach Boys</td>
+    		  	<td>I Can Hear Music</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>88</td>
+    		  	<td>Johnny Nash</td>
+    		  	<td>Cupid</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>89</td>
+    		  	<td>The Foundations</td>
+    		  	<td>In The Bad Bad Old Days</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>90</td>
+    		  	<td>Manfred Mann</td>
+    		  	<td>Ragamuffin Man</td>
+   		  	  </tr>
+  		      <tr>
+    			<td>91</td>
+    			<td>Manfred Mann</td>
+    			<td>Fox On The Run</td>
+   			  </tr>
+  			  <tr>
+    			<td>92</td>
+    			<td>Crazy Elephant</td>
+    			<td>Gimme Gimme Good Lovin'</td>
+   			  </tr>
+  			  <tr>
+    			<td>93</td>
+    			<td>Jethro Tull</td>
+    			<td>Sweet Dream</td>
+   			  </tr>
+  			  <tr>
+    			<td>94</td>
+    			<td>Engelbert Humperdinck</td>
+    			<td>Winter World Of Love</td>
+   			  </tr>
+  			  <tr>
+    		  	<td>95</td>
+    		  	<td>Elvis Presley</td>
+    		  	<td>Suspicious Minds</td>
+   		  	  </tr>
+  			  <tr>
+    		  	<td>96</td>
+    		  	<td>Junior Walker &amp; The All Stars</td>
+    		  	<td>Road Runner</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>97</td>
+    		  	<td>Tom Jones</td>
+    		  	<td>Love Me Tonight</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>98</td>
+    		  	<td>Cliff Richard</td>
+    		  	<td>Good Times (Better Times)</td>
+   		  	  </tr>
+  		   	  <tr>
+    		  	<td>99</td>
+    		  	<td>Sarah Vaughan &amp; Billy Eckstine</td>
+    		  	<td>Passing Strangers</td>
+   		  	  </tr>
+  		      <tr>
+    		  	<td>100</td>
+    		  	<td>Marv Johnson</td>
+    		  	<td>I'll Pick A Rose For My Rose</td>
+   		  	  </tr>
+  			</tbody>
+  		  </table>
+          <br>
+            <br>
+            <br>
+            <p class="ItemCenter">
+              &laquo; <a href="1960-to-1969.shtml" target="_top">Return to 1960's  from Top 100 1969</a>
+            </p>
+            <br>
+            <br>
+
+
+		  <script type="text/javascript" src="http://www.assoc-amazon.co.uk/s/link-enhancer?tag=mycarcom-21&amp;o=2">
+</script>
+<noscript>
+    <img src="http://www.assoc-amazon.co.uk/s/noscript?tag=mycarcom-21" alt="">
+</noscript>
+
+
+
+
+          <!-- ~~~~~~~~~ Begin Socialize It! ~~~~~~~~~~~ -->
+
+
+
+          <!-- ~~~~~~~~~ End Socialize It! ~~~~~~~~~~~ -->
+
+
+
+
+        </div> <!-- end Liner -->
+      </div> <!-- end CenterColumn -->
+    </div> <!-- end ContentWrapper -->
+
+    <div id="NavColumn">
+      <div class="Liner">
+
+        <div class="Navigation">
+		<br>
+		<br>
+          <br>
+
+<ul>
+  <li><a href = index.shtml> Home</a></li>
+  <li><a href = uk-chart-history.shtml> History</a></li>
+  <!--
+  <li><a href = index.shtml> Technology</a></li>
+  -->
+  <li><a href = uk-charts-sitemap.shtml>Sitemap</a></li>
+</ul>
+<h3>
+	<div class = "ItemCenter">
+		The Charts For Each Decade
+	</div>
+</h3>
+
+<ul>
+<li><a href = 1952-to-1959.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 1950's</a></li>
+<li><a href = 1960-to-1969.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 1960's</a></li>
+<li><a href = 1970-to-1979.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 1970's</a></li>
+<li><a href = 1980-to-1989.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 1980's</a></li>
+<li><a href = 1990-to-1999.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 1990's</a></li>
+<li><a href = 2000-to-2009.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 2000's</a></li>
+<li><a href = 2010-to-2019.shtml> <img src="image-files/45-single.gif" alt="45 RPM Disc" width="15" height="15" border="0"> 2010's</a></li>
+
+</ul>
+
+<!--
+<ul>
+<li><a href = skmskm.html>BBC &quot;Sound Of...&quot; Lists</a></li>
+
+<li><a href = index.html> Musicals</a></li>
+<li><a href = index.html> Cinema</a></li>
+<li><a href = index.html> Christmas</a></li>
+<li><a href = index.html> Eurovision</a></li>
+<li><a href = index.html> No 1 Singles</a></li>
+
+</ul>
+-->
+
+  <br>
+  <br>
+  <br>
+
+
+
+		  <p class="ItemCenter">
+    	    <img src="image-files/valid-html401.png" alt="Valid HTML 4.01 Transitional" height="31"
+			width="88">
+  		  </p>
+
+          <br>
+          <br>
+          <div class = "CalloutBox">
+            <h3>Music Factoids</h3>
+            <!-- START OF SCRIPT -->
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function random_content(){
+var mycontent=new Array()
+//specify random content below.
+mycontent[1]='In Rod Stewart&rsquo;s &quot;Maggie May&quot;, the full name in the title is not featured in the Lyrics. It was &quot;borrowed&quot; from the traditional Liverpool folk song of the same name.'
+
+mycontent[2]='In 2003, Ray Jackson the vocalist and mandolin player from 70&rsquo;s Geordie band Lindisfarne, sued Rod Stewart for unpaid royalties for his featured mandolin playing on Maggie May. It is a popular misconception that John Peel played mandolin on this track. Peel was encouraged to go on stage with the Faces on a &quot;Top of the Pops&quot; show and pretend to be playing mandolin.'
+
+mycontent[3]='Rod Stewart&rsquo;s record company didn&rsquo;t think &quot;Maggie May&quot; would sell, so they released it as the B-side of &quot;Reason To Believe.&quot; DJ&rsquo;s however preferred the B side and started playing this instead. The rest is history.'
+
+mycontent[4]='Rod Stewart was the first artist to simultaneously top both the British and American singles and album charts when &quot;Maggie May&quot; and &quot;Every Picture Tells A Story&quot; achieved the No. 1 spot in October 1971.'
+
+mycontent[5]='The Rolling Stones track &quot;Mother&rsquo;s Little Helper&quot; was recorded in a specially constructed studio in L.A. The design remit was to have no windows because The Stones did not want to know whether it was night or day.'
+
+mycontent[6]='&quot;Aftermath&quot; was a milestone for the Rolling Stones, since it was their first album with all original material. Their previous albums mostly consisted of re-worked blues tracks.'
+
+mycontent[7]='The first UK pop song to feature the sitar was &quot;Norwegian Wood &quot; on the Beatles 1965 album Rubber Soul.'
+
+mycontent[8]='The first UK chart hit to be recorded digitally was &quot;Mirror In The Bathroom&quot; by The Beats in 1980.'
+
+mycontent[9]='Although many people believed the Beatles track &quot;Lucy In The Sky With Diamonds&quot; was a veiled reference to LSD, John Lennon always denied it. Lennon claimed the inspiration for the song came from his young son Julian&rsquo;s drawing of his classmate Lucy Vodden.'
+
+mycontent[10]='Music fans tired of X Factor winners grabbing the Christmas No.1 successfully mounted an online spoiling campaign in 2009. &quot;Killing In The Name&quot; by Rage Against The Machine narrowly beat Joe McElderry&rsquo;s &quot;The Climb&quot; to the number one spot, and prevented Simon Cowell from achieving a straight run of 5 successive Christmas No.1&rsquo;s. McElderry still made No.1 the following week. This was the second successive year when this was attempted, Alexandra Burke&rsquo;s version of the Leonard Cohen track &quot;Hallelujah&quot; beating off a similar attempt to bloody Cowell&rsquo;s nose in 2008.'
+
+mycontent[11]='At the Moscow concert during Madonna&rsquo;s controversial Confessions tour in 2006, 10,000 soldiers and riot police were deployed for protection following condemnation by The Federation of Jewish Communities of Russia and the Russian Orthodox Church.'
+
+mycontent[12]='The 1970 English World Cup squad&rsquo;s recording of &quot;Back Home&quot; was bolstered by a relatively unknown piano player and vocalist called Reg Dwight, who would soon become famous as Sir Elton John.'
+
+mycontent[13]='One of the most enduring partnerships in music history is the one between song writing partners Elton John and Bernie Taupin. The two men started collaborating by post after both answered an advert in the NME. The first of their songs &quot;Scarecrow&quot; was recorded in 1967, but it would be another six months before the two men met face to face.'
+
+mycontent[14]='Sir Elton John&rsquo;s real name is Reginald Kenneth Dwight. Elton John was derived from his admiration for former Bluesology colleagues Elton Dean and Long John Baldry.'
+
+mycontent[15]='Queen&rsquo;s &quot;Bohemian Rhapsody&quot; has hit the number one spot in four different years. First released in 1975, it was still at No. 1 in 1976 and was re-released in 1991 following the death of Freddie Mercury. History  repeated itself as it stayed at No. 1 well into 1992'
+
+mycontent[16]='Dexy&rsquo;s Midnight Runners took their name from the drug Dexedrine, more commonly known as &quot;speed&quot; or &quot;Dexy&rsquo;s&quot;. Since this drug speeds up the metabolism and inhibits sleep, they were became known as &quot;Dexy&rsquo;s Midnight Runners&quot;.'
+
+mycontent[17]='27- a good age to die. Live fast die young goes the saying. Some of the more famous musicians to have died at the tender age of 27 are:- Robert Johnson, Janis Joplin, Brian Jones, Jimi Hendrix, Pigpen (Grateful Dead), Jim Morrison, Kurt Cobain, Pete Ham (Badfinger), Hank Williams and Amy Winehouse.'
+
+mycontent[18]='When Janis Joplin died of an overdose in 1970, she was due to record the vocals for the final track on her &quot;Pearl&quot; album the following day. Ironically, it was entitled &quot;Buried Alive In The Blues&quot; and the track was ultimately included on the album as an instrumental track.'
+
+mycontent[19]='It is a popular misconception that &quot;Country Honk&quot; on the Rolling Stones &quot;Let It Bleed&quot; album was a re-worked country version of &quot;Honky Tonk Women.&quot; In actual fact, it was the other way round. The song was written as a country song when the Stones visited a ranch during a trip to Brazil in 1968. It was Mick Taylor who had the idea of re-working it into what would become a rock classic, which was released before the album version.'
+
+mycontent[20]='The Island record label was started in 1959 by Chris Blackwell, the son of a wealthy palm oil producer. It took its name from the fact that it was originally set up to promote the music of the Caribbean Islands in the U.K.'
+
+mycontent[21]='Rick Wakeman was well known for liking the odd drink or two in the 1970&rsquo;s but excelled himself when he and the English Rock Ensemble drank the bar dry whilst on a flight to Japan. Not content with this, they repeated the feat on the same flight after the bar was re-stocked when the plane made a re-fuelling stop.'
+
+mycontent[22]='Paul Simon says that the title of &quot;Mother and Child Reunion&quot; was inspired by the name of a dish with chicken and egg as the ingredients which he saw on the menu in a Chinese restaurant.'
+
+var ry=Math.floor(Math.random()*mycontent.length)
+if (ry==0)
+ry=1
+document.write(mycontent[ry])
+}
+random_content()
+//-->
+</script>
+<!-- END OF SCRIPT -->
+
+
+          </div>
+
+
+
+
+		</div><!-- end Navigation -->
+
+
+
+
+      </div> <!-- end Liner -->
+    </div> <!-- end LeftColumn -->
+
+
+
+
+
+    <div id="ExtraColumn">
+      <div class="Liner">
+
+	    <br>
+		<br>
+
+		<br>
+<iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?t=mycarcom-21&o=2&p=14&l=ur1&category=piv&banner=1WAGS7N5PQ0584Z78PG2&f=ifr" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+		<br>
+        <br>
+        <br>
+
+        <div class = ItemCenter>
+          <strong>Popular Movies in the 1960&rsquo;s</strong>
+          <br>
+          <br>
+
+
+<!-- START OF SCRIPT -->
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function random_content(){
+var mycontent=new Array()
+//specify random content below.
+mycontent[1]='<img src="image-files/videos/1960s/101-dalmations.jpg" width="160" height="218" border="0" alt="101 Dalmations">'
+
+mycontent[2]='<img src="image-files/videos/1960s/jungle-book.jpg" width="160" height="218" border="0" alt="The Jungle Book">'
+
+mycontent[3]='<img src="image-files/videos/1960s/mary-poppins.jpg" width="160" height="218" border="0"alt="Mary Poppins">'
+
+mycontent[4]='<img src="image-files/videos/1960s/love-bug.jpg" width="160" height="218" border="0" alt="The Love Bug">'
+
+mycontent[5]='<img src="image-files/videos/1960s/summer-holiday.jpg" width="160" height="218" border="0"alt="Summer Holiday">'
+
+
+
+
+
+var ry=Math.floor(Math.random()*mycontent.length)
+if (ry==0)
+ry=1
+document.write(mycontent[ry])
+}
+random_content()
+//-->
+</script>
+<!-- END OF SCRIPT -->
+
+
+          <br>
+          <br>
+
+<!-- START OF SCRIPT -->
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function random_content(){
+var mycontent=new Array()
+//specify random content below.
+mycontent[1]='<img src="image-files/videos/1960s/pink-panther.jpg" width="160" height="218" border="0"alt="The Pink Panther">'
+
+mycontent[2]='<img src="image-files/videos/1960s/futtocks-end.jpg" width="160" height="218" border="0" alt="Futtock&lsquo;s End">'
+
+mycontent[3]='<img src="image-files/videos/1960s/breakfast-at-tiffanys.jpg" width="160" height="218" border="0" alt="Breakfast At Tiffany&squot;s">'
+
+mycontent[4]='<img src="image-files/videos/1960s/cleopatra.jpg" width="160" height="218" border="0" alt="Cleopatra">'
+
+mycontent[5]='<img src="image-files/videos/1960s/dr-no.jpg" width="160" height="218" border="0" alt="Dr. No">'
+
+
+
+
+
+var ry=Math.floor(Math.random()*mycontent.length)
+if (ry==0)
+ry=1
+document.write(mycontent[ry])
+}
+random_content()
+//-->
+</script>
+<!-- END OF SCRIPT -->
+
+
+          <br>
+          <br>
+
+<!-- START OF SCRIPT -->
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function random_content(){
+var mycontent=new Array()
+//specify random content below.
+mycontent[1]='<img src="image-files/videos/1960s/million-years-bc.jpg" width="160" height="218" border="0" alt="One Million Years BC">'
+
+mycontent[2]='<img src="image-files/videos/1960s/mutiny-on-the-bounty.jpg" width="160" height="218" border="0" alt="Mutiny On The Bounty">'
+
+mycontent[3]='<img src="image-files/videos/1960s/oceans-eleven.jpg" width="180" height="208" border="0" alt="Oceans Eleven">'
+
+mycontent[4]='<img src="image-files/videos/1960s/psycho.jpg" width="160" height="218" border="0" alt="Psycho">'
+
+mycontent[5]='<img src="image-files/videos/1960s/the-great-escape.jpg" width="160" height="218" border="0" alt="The Great Escape">'
+
+
+
+
+
+var ry=Math.floor(Math.random()*mycontent.length)
+if (ry==0)
+ry=1
+document.write(mycontent[ry])
+}
+random_content()
+//-->
+</script>
+<!-- END OF SCRIPT -->
+
+
+          <br>
+          <br>
+
+<!-- START OF SCRIPT -->
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function random_content(){
+var mycontent=new Array()
+//specify random content below.
+mycontent[1]='<img src="image-files/videos/1960s/zulu.jpg" width="160" height="218" border="0" alt="Zulu">'
+
+mycontent[2]='<img src="image-files/videos/1960s/west-side-story.jpg" width="160" height="218" border="0" alt="West Side Story">'
+
+mycontent[3]='<img src="image-files/videos/1960s/the-music-man.jpg" width="160" height="218" border="0" alt="The Music Man">'
+
+mycontent[4]='<img src="image-files/videos/1960s/my-fair-lady.jpg" width="160" height="218" border="0" alt="My Fair Lady">'
+
+mycontent[5]='<img src="image-files/videos/1960s/hard-days-night.jpg" width="160" height="218" border="0" alt="A Hard Days Night">'
+
+
+
+
+
+var ry=Math.floor(Math.random()*mycontent.length)
+if (ry==0)
+ry=1
+document.write(mycontent[ry])
+}
+random_content()
+//-->
+</script>
+<!-- END OF SCRIPT -->
+
+
+	  	</div>
+
+
+	    <br>
+		<br>
+
+
+        <!-- ~~~~~ Google Ad Box ~~~~~ -->
+
+<div class="AdSenseBoxRightColumn">
+
+</div>
+
+        <!-- ~~~~~ Google Ad Box ~~~~~ -->
+
+      </div><!-- end Liner-->
+    </div><!-- end RightColumn -->
+
+
+    <div id="Footer">
+      <div class="Liner">
+
+
+
+
+
+<p>
+	<a href="#top">Top Of Page</a> | <a href="index.shtml">Home</a> | <a href="limitation.shtml">Limitation of Liabilities</a> | <a href="http://www.freeprivacypolicy.org/generic.php" onClick="return privacypopup(this)">Privacy Policy</a> | <a href="index.shtml">About This Site</a> | <a href="uk-charts-sitemap.shtml">Sitemap</a>
+</p>
+
+<script type="text/javascript">
+	<!--
+	function privacypopup(href)
+	{
+	if (!window.focus)return true;
+	window.open(href, 'privacy', 'width=600,height=480,scrollbars=yes');
+	return false;
+	}
+	//-->
+</script>
+
+<p>
+	&copy; uk-charts.top-source.info 2009 - 2016
+</p>
+
+
+	 <br>
+	 <script language="JavaScript" type="text/javascript">
+	 <!--
+     	 document.write("This Document Last Modified: " + document.lastModified)
+	 // -->
+	 </script>
+
+    </div><!-- end Liner -->
+   </div><!-- end Footer -->
+
+  </div> <!-- end PageWrapper -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10135258-2");
+pageTracker._setDomainName(".uk-charts.top-source.info");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+
+</body>
+</html>
+
