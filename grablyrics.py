@@ -1,6 +1,7 @@
 """It uses a pager to find the X best selling songs for a certain year and then it tries to
 find the lyrics for these songs cleaning up the text a bit"""
 import argparse
+import codecs
 import logging
 import os
 import sys
@@ -8,6 +9,8 @@ import urllib2
 import re
 import time
 import spotipy
+import musixmatch.ws
+
 from HTMLParser import HTMLParser
 
 logger = logging.getLogger(__name__)
@@ -84,25 +87,25 @@ class AZLyricsHTMLParser(HTMLParser):
 
 
 class SongListGrabSpotify():
-  def get_songs_from_year(self, year, lyrics_grabber, num_songs=400):
+  def get_songs_from_year(self, year, lyrics_grabber, num_songs=1000):
     start = 0
     limit = 50
     song_read = 0
     client = spotipy.Spotify()
+    all_lyrics = ""
     while song_read < num_songs:
       res = client.search("year:{}".format(year), limit=limit, offset=start)
       tracks = res["tracks"]["items"]
       logger.info("Found %d songs for year %s", len(tracks), year)
       tracks_and_artist = [(a["name"], a["artists"][0]["name"]) for a in tracks]
-      all_lyrics = ""
       for (song, artist) in tracks_and_artist:
-        lyrics = lyrics_grabber.grab_lyrics_from_az(artist, song)
+        lyrics = lyrics_grabber.grab_lyrics(artist, song)
         if lyrics:
           all_lyrics += lyrics
           all_lyrics += "\n\n"
           song_read += 1
-        time.sleep(3)
       start += limit
+      logging.info("Read %d songs with lyrics", song_read)
     return all_lyrics
 
 
@@ -122,7 +125,7 @@ class SongListGrabUkChart():
     all_lyrics = ""
     logger.info("Found %d songs", len(songs))
     for (artist, song) in songs:
-      lyrics = lyrics_grabber.grab_lyrics_from_az(artist, song)
+      lyrics = lyrics_grabber.grab_lyrics(artist, song)
       if lyrics:
         all_lyrics += lyrics
         all_lyrics += "\n\n"
@@ -133,7 +136,7 @@ class SongListGrabUkChart():
 class AZLyricsGrab():
   AZURL = "http://www.azlyrics.com/lyrics/{}/{}.html"
 
-  def grab_lyrics_from_az(self, az_artist, az_song):
+  def grab_lyrics(self, az_artist, az_song):
     azurl = AZLyricsGrab.AZURL.format(self.azfy(az_artist), self.azfy(az_song))
     try:
       logger.debug("Fetching {}".format(azurl))
@@ -150,6 +153,26 @@ class AZLyricsGrab():
   def azfy(self, text):
     return re.sub(r'\W+', '', text.split(" ft ")[0].replace("the", "")).strip().lower()
 
+class MusixMatchGrab():
+  def __init__(self, apikey):
+    self.apikey = apikey
+
+  def grab_lyrics(self, artist, song):
+    lyrics = u""
+    try:
+      res = musixmatch.ws.track.search(q_artist=artist, q_track=song, apikey=self.apikey)
+      tracks = res["body"]["track_list"]
+      if tracks:
+        for track in tracks:
+          track_ = track["track"]
+          if track_["has_lyrics"] == 1:
+            _lyrics = musixmatch.ws.track.lyrics.get(track_id=track_["track_id"], apikey=self.apikey)
+            lyrics = _lyrics["body"]["lyrics"]["lyrics_body"]
+            logger.debug("Found lyrics of {} characters for {}, {}".format(len(lyrics), artist, song))
+            break
+    except Exception as e:
+      logging.error("Could not read song: %s", e)
+    return lyrics
 
 def main():
   parser = argparse.ArgumentParser()
@@ -160,6 +183,9 @@ def main():
   parser.add_argument('--year', type=int,
                       default=2011,
                       help='Year of lyrics to grab')
+  parser.add_argument('--apikey', type=str,
+                      required=True,
+                      help='Api key for musixmatch')
   args = parser.parse_args()
 
   file = ".{}".format(args.year)
@@ -177,11 +203,11 @@ def main():
         return
 
   song_list_grab = SongListGrabSpotify()
-  all_lyrics = song_list_grab.get_songs_from_year(args.year, AZLyricsGrab())
+  all_lyrics = song_list_grab.get_songs_from_year(args.year, MusixMatchGrab())
   if all_lyrics:
     logger.info("Writing file: %s", temp_file_path)
-    with open(temp_file_path, 'w') as file:
-      return file.write(all_lyrics.encode('utf8') + '\n')
+    with codecs.open(temp_file_path, mode='w', encoding='utf-8', errors='ignore') as file:
+      return file.write(all_lyrics + '\n')
   else:
     logger.error("No songs found, returning")
 
